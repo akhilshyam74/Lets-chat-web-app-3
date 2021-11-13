@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+#user_name {
+    height: 25px;
+    width:400px;
+    text-align: center;
+}
+#login_button {
+    height: 30px;
+    width: 100px;
+}
